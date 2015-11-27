@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1448525384 source:c:\users\nyanpass\onedrive\ÎÄµµ\codeblocks\projects\textquery\src\textquery.cpp
+	"TextQuery.h"
+	<iostream>
+	<sstream>
+
+1448526908 c:\users\nyanpass\onedrive\ÎÄµµ\codeblocks\projects\textquery\include\textquery.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<memory>
+	<fstream>
+
+1448525753 source:c:\users\nyanpass\onedrive\ÎÄµµ\codeblocks\projects\textquery\test.cpp
+	"TextQuery.h"
+
+1448555227 source:c:\users\nyanpass\onedrive\codeblocks\projects\textquery\src\textquery.cpp
+	"TextQuery.h"
+	<iostream>
+	<sstream>
+
+1448602888 c:\users\nyanpass\onedrive\codeblocks\projects\textquery\include\textquery.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<memory>
+	<fstream>
+
+1448601491 source:c:\users\nyanpass\onedrive\codeblocks\projects\textquery\test.cpp
+	"TextQuery.h"
+	"Query.h"
+	"Derive.h"
+
+1448602993 source:c:\users\nyanpass\onedrive\codeblocks\projects\textquery\src\derive.cpp
+	"Derive.h"
+	<memory>
+	<set>
+	<algorithm>
+	<iterator>
+
+1448555227 c:\users\nyanpass\onedrive\codeblocks\projects\textquery\include\derive.h
+	"QueryBase.h"
+	"Query.h"
+	<string>
+
+1448548755 c:\users\nyanpass\onedrive\codeblocks\projects\textquery\include\querybase.h
+	"TextQuery.h"
+	<string>
+
+1448556051 c:\users\nyanpass\onedrive\codeblocks\projects\textquery\include\query.h
+	"QueryBase.h"
+	<memory>
+	<string>
+
+1448555950 source:c:\users\nyanpass\onedrive\codeblocks\projects\textquery\src\query.cpp
+	"Query.h"
+	"Derive.h"
+
+1448534353 source:c:\users\nyanpass\onedrive\codeblocks\projects\textquery\src\querybase.cpp
+	"QueryBase.h"
+
